@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qt/szm06pKohZ6tdLLQl6eqAHp92o1wZ/Ytl28zxuqxz1XgCak/tMLPOpPezQ39p23fGJ15P9ZvlZUFymvEwUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martin\\source\\repos\\Sibenice\\Sibenice\\Sibenice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
